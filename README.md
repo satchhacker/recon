@@ -7,7 +7,6 @@
 3. chmod +x recon.sh
 4. ln -s $(pwd)/recon.sh /usr/bin/recon
 5. Make sure to have domains put in domain.txt
-6. run recon tool in the same directory as domain.txt
 
 To use the `recon` tool, simply run:
 
